@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **SQL, POWER BI, Python, Advanced Excel**
 
-- 📫 How to reach me **ankit.kyadav@gmail.com**
+- 📫 How to reach me **ankit.kyadav3027@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
