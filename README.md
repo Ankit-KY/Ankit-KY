@@ -20,20 +20,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left" style="white-space: nowrap;">
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55"/>
-</a>
-<a href="https://github.com/Ankit-KY/Business_Insights_360" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="60" height="60"/>
-</a>
-<a href="https://github.com/Ankit-KY/Sales-Finance-Excel-Analytics-of-AtliQ-Hardwares" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" width="60" height="60"/>
-</a>
-<a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60" height="60"/>
-</a>
+<p align="left">
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="50"/></a><a href="https://github.com/Ankit-KY/Business_Insights_360"><img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="50"/></a><a href="https://github.com/Ankit-KY/Sales-Finance-Excel-Analytics-of-AtliQ-Hardwares"><img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" width="50"/></a><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/></a><a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/></a>
 </p>
